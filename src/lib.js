@@ -78,7 +78,7 @@ function chunkSlow(func, inputs, chunkSize, delay, callback) {
         callback(null, res);
     });
 }
- 
+
 exports.chunk = chunk;
 exports.chunkRun = chunkRun;
 exports.chunkSlow = chunkSlow;

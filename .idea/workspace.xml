@@ -2,6 +2,692 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41adf2a0-4253-49fe-8229-0f8506e99d56" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/lib/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/async/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/node_modules/callsite/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/better-assert/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/Changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/lib/commands.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/lib/jsonrpc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoin/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/jshint.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/lib/bigi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/lib/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bigi/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/.min-wd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/lib/bs58.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/jshint.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/src/bs58check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/test/bs58check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/test/fixtures.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/bs58check/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/create-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/create-hmac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/example/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/example/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/example/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/.bin/sha.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/.min-wd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/lib/ripemd160.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/ripemd160/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/browserify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/hexpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/bundle.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/LICENSE.MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/bench/bench.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/lib/b64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/test/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/base64-js/test/url-safe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/node_modules/ieee754/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/bracket-notation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/bracket-notation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/new.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/readDoubleBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/readFloatBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/readUInt32LE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/comparison/writeFloatBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/bracket-notation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/new.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/readDoubleBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/readFloatBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/readUInt32BE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/readUInt32LE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/perf/solo/writeFloatBE.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/indexes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/is-buffer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/is-encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/node_modules/native-buffer-browserify/test/utf16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/sha256.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/nist-vectors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte-hashes.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte-hashes.sha1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte-hashes.sha256" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0000.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0001.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0002.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0003.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0004.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0005.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0006.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0007.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0008.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0009.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0010.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0011.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0012.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0013.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0014.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0015.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0016.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0017.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0018.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0019.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0020.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0021.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0022.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0023.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0024.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0025.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0026.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0027.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0028.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0029.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0030.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0031.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0032.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0033.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0034.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0035.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0036.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0037.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0038.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0039.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0040.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0041.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0042.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0043.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0044.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0045.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0046.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0047.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0048.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0049.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0050.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0051.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0052.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0053.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0054.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0055.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0056.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0057.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0058.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0059.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0060.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0061.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0062.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0063.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0064.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0065.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0066.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0067.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0068.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0069.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0070.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0071.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0072.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0073.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0074.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0075.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0076.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0077.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0078.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0079.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0080.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0081.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0082.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0083.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0084.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0085.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0086.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0087.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0088.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0089.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0090.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0091.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0092.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0093.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0094.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0095.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0096.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0097.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0098.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0099.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0100.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0101.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0102.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0103.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0104.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0105.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0106.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0107.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0108.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0109.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0110.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0111.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0112.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0113.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0114.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0115.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0116.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0117.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0118.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0119.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0120.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0121.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0122.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0123.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0124.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0125.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0126.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0127.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0128.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0129.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0130.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0131.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0132.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0133.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0134.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0135.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0136.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0137.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0138.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0139.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0140.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0141.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0142.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0143.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0144.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0145.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0146.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0147.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0148.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0149.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0150.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0151.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0152.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0153.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0154.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0155.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0156.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0157.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0158.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0159.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0160.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0161.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0162.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0163.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0164.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0165.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0166.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0167.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0168.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0169.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0170.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0171.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0172.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0173.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0174.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0175.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0176.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0177.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0178.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0179.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0180.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0181.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0182.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0183.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0184.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0185.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0186.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0187.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0188.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0189.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0190.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0191.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0192.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0193.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0194.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/prepare/vectors/byte0195.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/vectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/test/write.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/node_modules/sha.js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/pbkdf2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/rng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/test/create-hash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/test/create-hmac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/test/pbkdf2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-browserify/test/random-bytes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/aes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/cipher-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/enc-base64.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/enc-hex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/enc-latin1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/enc-utf16.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/enc-utf8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/evpkdf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/format-hex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/format-openssl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-ripemd160.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha224.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha256.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha384.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac-sha512.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/hmac.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/lib-typedarrays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/mode-cfb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/mode-ctr-gladman.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/mode-ctr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/mode-ecb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/mode-ofb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-ansix923.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-iso10126.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-iso97971.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-nopadding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-pkcs7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pad-zeropadding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/pbkdf2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/rabbit-legacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/rabbit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/rc4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/ripemd160.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha224.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha256.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha384.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/sha512.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/tripledes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/crypto-js/x64-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/.min-wd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/jshint.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/lib/curve.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/lib/curves.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/lib/names.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/lib/point.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/ecurve/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/lib/secure-random.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/node_modules/secure-random/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/address.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/bufferutils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/crypto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/ecdsa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/eckey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/ecpubkey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/ecsignature.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/hdnode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/networks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/opcodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/transaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/wallet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/address.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/bitcoin.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/bufferutils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/crypto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/ecdsa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/eckey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/ecpubkey.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/ecsignature.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/address.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/base58.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/bufferutils.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/convert.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/base58_encode_decode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/base58_keys_invalid.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/base58_keys_valid.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/sig_canonical.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/sig_noncanonical.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/sighash.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/core/tx_valid.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/crypto.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/ecdsa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/eckey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/ecpubkey.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/ecsignature.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/hdnode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/mainnet_tx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/message.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/network.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/script.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/scripts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/fixtures/transaction.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/hdnode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/integration/p2sh.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/network.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/transaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bitcoinjs-lib/test/wallet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/NEWS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/4e822a1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/835f71a76f.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/df766c913.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/prepare-values.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/prepared-statement-parsing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/benchmark/simple-query-parsing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/binding.gyp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/build/config.gypi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/client.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/connection-parameters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/copystream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/native/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/native/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/pool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/result.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/int-16-benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/int-32-benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/join-benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/resize-benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/benchmark/small-benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/test/mocha.opts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/buffer-writer/test/writer-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/fabfile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/lib/generic-pool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/generic-pool/test/generic-pool.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/build/config.gypi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/include_dirs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/nan.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/nan/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/packet-reader/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/packet-reader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/packet-reader/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/packet-reader/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/lib/arrayParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/lib/binaryParsers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/lib/textParsers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/test/array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/test/assert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/test/dates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pg-types/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/lib/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/examples/pretty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/LICENSE.APACHE2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/LICENSE.MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/test/async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/test/auto-destroy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/test/buffering.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/test/end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/node_modules/through/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/test/options.asynct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/test/partitioned_unicode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/test/split.asynct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/node_modules/split/test/try_catch.asynct.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/#1 de-escaping.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/#1 escaping.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/_pgpass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/node_modules/pgpass/test/integration/#1 escaping.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/script/create-test-tables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/script/dump-db-types.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/script/list-db-types.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/script/test-connection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/script/travis-pg-9.2-install.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/src/binding.cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/buffer-list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/api-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/appname-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/array-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/big-simple-query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/cancel-query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/configuration-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/copy-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/empty-query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/error-handling-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/escape-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/force-native-with-envvar-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/heroku-pgpass-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/heroku-ssl-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/heroku.pgpass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/huge-numeric-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/json-type-parsing-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/no-data-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/no-row-result-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/notice-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/parse-int-8-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/prepared-statement-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/query-callback-error-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/query-error-handling-prepared-statement-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/query-error-handling-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/quick-disconnect-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/result-metadata-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/results-as-array-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/row-description-on-results-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/simple-query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/ssl-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/timezone-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/transaction-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/client/type-coercion-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/double-connection-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/ending-empty-pool-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/ending-pool-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/error-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/idle-timeout-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/max-connection-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/optional-config-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/single-connection-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection-pool/waiting-connection-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection/bound-command-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection/copy-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection/notification-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection/query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/connection/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/domain-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/gh-issues/130-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/gh-issues/131-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/gh-issues/507-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/integration/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/callback-api-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/connection-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/copy-events-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/copyto-largedata-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/error-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/evented-api-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/native/stress-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/test-buffers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/cleartext-password-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/configuration-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/connection-string-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/early-disconnect-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/escape-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/md5-password-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/notification-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/prepared-statement-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/query-queue-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/result-metadata-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/simple-query-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/stream-and-query-error-interaction-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/client/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection-parameters/creation-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection-parameters/environment-variable-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection/error-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection/inbound-parser-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection/outbound-sending-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection/startup-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/connection/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/copystream/copyfrom-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/copystream/copyto-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/pool/basic-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/pool/timeout-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/test-helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/test/unit/utils-tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pg/wscript" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lib.js" afterPath="$PROJECT_DIR$/src/lib.js" />
     </list>
     <ignored path="depositer.iws" />
@@ -30,7 +716,7 @@
         <entry file="file://$PROJECT_DIR$/src/lib.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5945946" vertical-offset="738" max-vertical-offset="1515">
-              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,20 +801,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depositer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="depositer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -141,7 +813,36 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <list size="0" />
@@ -158,7 +859,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -201,24 +902,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/networks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19305019" vertical-offset="0" max-vertical-offset="1290">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bitcoinjs-lib/src/hdnode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.46332046" vertical-offset="360" max-vertical-offset="4200">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.096525095" vertical-offset="0" max-vertical-offset="2685">
@@ -246,7 +929,7 @@
     <entry file="file://$PROJECT_DIR$/src/lib.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5945946" vertical-offset="738" max-vertical-offset="1515">
-          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
         </state>
       </provider>
